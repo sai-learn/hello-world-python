@@ -1,4 +1,4 @@
-name: Python Hello World CI
+name: Python Hello World CI-CD
 
 on:
   push:
